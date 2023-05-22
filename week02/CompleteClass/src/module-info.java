@@ -5,5 +5,5 @@
  * @author fanik
  *
  */
-module week01 {
+module CompleteClass {
 }
